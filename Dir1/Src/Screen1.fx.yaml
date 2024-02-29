@@ -8,17 +8,9 @@ Screen1 As screen:
         Width: =1001
         ZIndex: =1
 
-    Label1_1 As label:
-        Align: =Align.Center
-        FontWeight: =FontWeight.Bold
-        Height: =409
-        Text: ="Congrats it worked"
-        Width: =1001
-        Y: =359
-        ZIndex: =2
-
     Label1_2 As label:
         Align: =Align.Center
+        Color: =RGBA(152, 208, 70, 1)
         FontWeight: =FontWeight.Bold
         Height: =409
         Text: ="Congrats it worked"
