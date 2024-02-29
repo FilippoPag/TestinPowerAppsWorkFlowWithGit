@@ -6,7 +6,5 @@ Screen1 As screen:
         Height: =409
         Text: ="Congrats it worked"
         Width: =1001
-        X: =185
-        Y: =365
         ZIndex: =1
 
