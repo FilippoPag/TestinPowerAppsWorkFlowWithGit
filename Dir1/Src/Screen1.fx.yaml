@@ -6,7 +6,24 @@ Screen1 As screen:
         Height: =409
         Text: ="Congrats it worked"
         Width: =1001
-        X: =365
-        Y: =359
         ZIndex: =1
+
+    Label1_1 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Bold
+        Height: =409
+        Text: ="Congrats it worked"
+        Width: =1001
+        Y: =359
+        ZIndex: =2
+
+    Label1_2 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Bold
+        Height: =409
+        Text: ="Congrats it worked"
+        Width: =1001
+        X: =365
+        Y: =155
+        ZIndex: =3
 
