@@ -1,0 +1,12 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Bold
+        Height: =409
+        Text: ="Congrats it worked"
+        Width: =1001
+        X: =365
+        Y: =359
+        ZIndex: =1
+
